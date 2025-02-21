@@ -10,11 +10,15 @@ Uma calculadora simples desenvolvida em Java como parte do meu aprendizado na li
 
 ## 🛠 Tecnologias
 
-- Java
+- Java  
 - Scanner (para entrada de dados no terminal)
 
 ## 📌 Como executar
 
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/krigerthomas/calculadora-java.git
+Clone este repositório, acesse o diretório, compile e execute o programa com os seguintes comandos:  
+
+```bash
+git clone https://github.com/krigerthomas/calculadora-java.git
+cd calculadora-java
+javac Calculadora.java
+java Calculadora
