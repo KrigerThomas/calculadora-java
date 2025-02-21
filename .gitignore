@@ -1,0 +1,8 @@
+# Ignorar pastas do NetBeans
+nbproject/
+build/
+dist/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
