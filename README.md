@@ -1,24 +1,21 @@
-# Calculadora em Java
+# Calculadora Simples em Java 🖩
 
-Uma calculadora simples desenvolvida em Java como parte do meu aprendizado na linguagem.
+Este é um projeto de uma calculadora simples desenvolvida em Java, permitindo operações básicas como:
 
-## 🚀 Funcionalidades
+✅ Adição  
+✅ Subtração  
+✅ Multiplicação  
+✅ Divisão  
 
-- Operações matemáticas básicas: Adição, Subtração, Multiplicação e Divisão.
-- Menu interativo no terminal.
-- Validação para evitar divisão por zero.
+## 🚀 Como executar?
 
-## 🛠 Tecnologias
+1. Baixe o arquivo `Calculadora.java`.  
+2. Abra no NetBeans, IntelliJ IDEA ou Eclipse.  
+3. Execute o programa.
 
-- Java  
-- Scanner (para entrada de dados no terminal)
+## 🛠️ Tecnologias utilizadas
+- Java 17+
+- NetBeans 24
 
-## 📌 Como executar
-
-Clone este repositório, acesse o diretório, compile e execute o programa com os seguintes comandos:  
-
-```bash
-git clone https://github.com/krigerthomas/calculadora-java.git
-cd calculadora-java
-javac Calculadora.java
-java Calculadora
+## 📌 Autor
+Projeto desenvolvido por [Thomás Kriger](https://github.com/krigerthomas).
