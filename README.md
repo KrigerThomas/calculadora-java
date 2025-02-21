@@ -10,4 +10,4 @@ Uma calculadora simples desenvolvida em Java como parte do meu aprendizado na li
 ## 🚀 Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-java.git
+   git clone https://github.com/krigerthomas/calculadora-java.git
